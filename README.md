@@ -1,4 +1,9 @@
-posterstatus
+poster_status
 ============
 
-posterstatus
+posterstatus - Web service to allow the creation of image posters for Twitter, Facebook , Instagram , etc
+
+ - How to use
+  - generateposter(message,width)
+  - deleteposter(id)
+  - 
